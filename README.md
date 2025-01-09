@@ -220,4 +220,19 @@ RealTimeTransitMonitor/
 
 ---
 
+## Screenshots 📸
+
+### Settings Panel
+![Settings Panel](images/dashboard_settings.png)
+
+### Transport Data Table
+![Data Table](images/dashboard_table.png)
+
+### Transport Map
+![Map](images/dashboard_map.png)
+
+### Speed Chart
+![Speed Chart](images/dashboard_chart.png)
+
+
 Приятного мониторинга! 🚍
