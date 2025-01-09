@@ -1,3 +1,19 @@
+# Виртуальное окружение
+.venv/
+
+# Логи
+logs/
+
+# Системные файлы IDE
+.idea/
+.vscode/
+
+# Среда разработки
+*.env
+
+# Данные (если они не являются частью репозитория)
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
